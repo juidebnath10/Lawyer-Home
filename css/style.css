@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
@@ -257,7 +261,7 @@ a:hover{
 
 .language .title{
     text-align: center;
-    padding: 0px 0px 80px;
+    padding: 0px 0px 40px;
 }
 
 .inner-language{
